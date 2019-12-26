@@ -4,7 +4,7 @@ BYAPPS CMS RENEWAL 개발문서 prototype
 # 목차
 
 [01. 개발환경 설정](./01/set_environment.md)  
-[02. 코딩 규약]()  
+[02. 코딩 규약](./02/coding_convention.md)   
 [03. 폴더 구조]()  
 [04. DB 구조]()  
 [05. 기존 CMS와 차이점]()  
