@@ -97,7 +97,7 @@ php artisan key:generate
 기존 CMS의 본인 아이디로 로그인한다.  
 
 ## 8) 개발 시작 전 git pull, 개발 완료 후 git push 및 Pull Request 하기
-항상 개발 시작하기 전에 다른 개발자들이 올린 변경사항을 내려받기 위해 git push로 공통저장소의 변경사항을 가져온다.
+항상 개발 시작하기 전에 다른 개발자들이 올린 변경사항을 내려받기 위해 git pull로 공통저장소의 변경사항을 가져온다.
 
 ```bash
 git pull https://github.com/byapps-laravel-cms/byapps-cms-beta
