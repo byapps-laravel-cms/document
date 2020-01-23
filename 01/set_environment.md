@@ -4,7 +4,7 @@
 
 ### 1) gitlab의 공통 작업 저장소에서 Fork 해서 내 프로젝트로 가져온다
 
-공통 작업 저장소: http://gitlab.innoi.kr:30000/byapps-group/byapps-cms/byapps-cms-beta
+공통 작업 저장소: http://gitlab.innoi.kr:30000/byapps-group/byapps-cms/byapps-cms-beta  
 !! **주의사항** !! clone 이 아니라 _반드시 Fork 해서_ 먼저 내 저장소를 만들어야한다.
 
 ![image](./img/GitLab001.png)  
@@ -161,3 +161,7 @@ git pull https://github.com/byapps-laravel-cms/byapps-cms-beta
 
 아무리 작은 단위라도 개발이 완료되면 반드시 커밋을 한다. 커밋은 세세할 수록 히스토리가 된다.  
 일정 단위의 커밋이 쌓이면 push를 하고 push한 다음에는 PR(Pull Request)를 열고 컨펌을 마친다.  
+
+## 1-3. Pull Request(Merge Request) 여는 방법
+
+github에서 Pull Request가 gitlab에서는 Merge Request에 해당한다.  
